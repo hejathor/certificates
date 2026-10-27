@@ -28,7 +28,7 @@
 <!-- omit in toc -->
 ### Repository
 
-[https://github.com/thordotcomputer/certificates/tree/main/Mastering%20Laravel%20Framework%20and%20PHP](https://github.com/thordotcomputer/certificates/tree/main/Mastering%20Laravel%20Framework%20and%20PHP)
+[https://github.com/hejathor/certificates/tree/main/Mastering%20Laravel%20Framework%20and%20PHP](https://github.com/hejathor/certificates/tree/main/Mastering%20Laravel%20Framework%20and%20PHP)
 
 ## Front-End Developer (Meta)
 
@@ -55,7 +55,7 @@
 <!-- omit in toc -->
 ### Repository
 
-[https://github.com/thordotcomputer/certificates/tree/main/Front-End%20Developer](https://github.com/thordotcomputer/certificates/tree/main/Front-End%20Developer)
+[https://github.com/hejathor/certificates/tree/main/Front-End%20Developer](https://github.com/thordotcomputer/certificates/tree/main/Front-End%20Developer)
 
 ## Back-End Developer (Meta)
 
