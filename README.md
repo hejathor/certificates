@@ -78,4 +78,4 @@
 <!-- omit in toc -->
 ### Repository
 
-[https://github.com/thordotcomputer/certificates/tree/main/Back-End%20Developer](https://github.com/thordotcomputer/certificates/tree/main/Back-End%20Developer)
+[https://github.com/hejathor/certificates/tree/main/Back-End%20Developer](https://github.com/thordotcomputer/certificates/tree/main/Back-End%20Developer)
